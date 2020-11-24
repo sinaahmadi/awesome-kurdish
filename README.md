@@ -45,6 +45,8 @@ Check out [a comprehensive list of Kurdish dictionaries](https://sinaahmadi.gith
 - [Universal dependency](https://github.com/UniversalDependencies/UD_Kurmanji-MG) (Kurmanji)
 - [Wergor transliteration datasets](https://github.com/sinaahmadi/wergor)
 - [Web Inventory of Transcribed and Translated Talks (WIT3)](https://wit3.fbk.eu/) (Sorani)
+- [Sorani](https://github.com/unimorph/ckb) and [Kurmanji](https://github.com/unimorph/kmr) morphological datasets in UniMorph
+
 
 ### Other resources
 
@@ -65,6 +67,7 @@ Check out [a comprehensive list of Kurdish dictionaries](https://sinaahmadi.gith
 - Apertium project for [Kurmanji](https://github.com/apertium/apertium-kmr) and [Sorani](https://github.com/apertium/apertium-ckb) morphological analysis
 - [Kurdish Hunspell](https://github.com/sinaahmadi/KurdishHunspell) for Sorani morphological analysis
 - [Part-of-speech tagger](https://github.com/sinaahmadi/KurdishPOSTagger) (Sorani)
+- [Alexina Framework](https://gforge.inria.fr/projects/alexina/): morphological analysis and POS-tagger for Sorani (`soralex`) and Kurmanji (`kurlex`)
 - [Kurdspell](https://github.com/Kurdspell/Kurdspell) for Sorani spell checking
 - [Kurdish Hunspell](https://github.com/sinaahmadi/KurdishHunspell) for Sorani spell checking
 
