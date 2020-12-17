@@ -76,10 +76,11 @@ Check out [a comprehensive list of Kurdish dictionaries](https://sinaahmadi.gith
 - [Kurdish MT](https://github.com/sinaahmadi/KurdishMT) (Sorani)
 
 ### Libraries
-
 - [Kurdish Language Processing Toolkit](https://github.com/sinaahmadi/klpt): a natural language processing toolkit in Python
 - [Kurdînûs](https://github.com/aso-mehmudi/kurdinus): pure JavaScript tools for transliteration, text conversion and normalization
-- [Kurdish Language Library](): converting characters and digits in Persian, English and Arabic to Kurdish and vice versa
+- [Kurdish Language Library](https://github.com/dolanskurd/kurdish): converting characters and digits in Persian, English and Arabic to Kurdish and vice versa
+- [AsoSoft's Library for Kurdish](https://github.com/AsoSoft/AsoSoft-Library): normalizer, numeral converter, grapheme-to-phoneme convertor in C# 
+
 
 ## Other
 In addition to these, you can find further information in other repositories and pages as follows:
