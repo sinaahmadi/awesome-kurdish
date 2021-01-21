@@ -25,7 +25,7 @@ Are you interested in contributing to Kurdish language processing? Check out [th
 - Bible translations in [Kurmanji-Latin](http://ibtrussia.org/en/projects?id=KKD) and [Kurmanji-Cyrillic](http://ibtrussia.org/en/media?id=KKD/cyrl&panel=text)
 - [TED Talks subtitles](https://production-blue.amara.org/en/)
 
-### Dictionaries and ontologies
+### Dictionaries, terminologies and ontologies
 Check out [a comprehensive list of Kurdish dictionaries](https://sinaahmadi.github.io/posts/list-of-kurdish-dictionaries.html) and beware of copyright issues in the following projects:
 
 - [Kurdish lexicographical resources in Ontolex-Lemon](https://github.com/KurdishBLARK/KurdishLex) (Sorani, Kurmanji, Gorani)
@@ -33,6 +33,7 @@ Check out [a comprehensive list of Kurdish dictionaries](https://sinaahmadi.gith
 - [KurdNet-the Kurdish wordNet](https://sinaahmadi.github.io/resources/kurdnet.html) (Sorani)
 - [Kurdish annotated lexicon](https://github.com/sinaahmadi/KurdishHunspell/blob/main/ckb/ckb-Arab.dic) (Sorani)
 - [Freedict](https://freedict.org/downloads/) word lists (Sorani and Kurmanji)
+- [Translation Initiative for COVID-19](https://tico-19.github.io/terminologies.html) including Sorani and Kurmanji
 
 ### Datasets
 
