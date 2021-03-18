@@ -38,6 +38,7 @@ Check out [a comprehensive list of Kurdish dictionaries](https://sinaahmadi.gith
 - [Kurdish annotated lexicon](https://github.com/sinaahmadi/KurdishHunspell/blob/main/ckb/ckb-Arab.dic) (Sorani)
 - [Freedict](https://freedict.org/downloads/) word lists (Sorani and Kurmanji)
 - [Translation Initiative for COVID-19](https://tico-19.github.io/terminologies.html) including Sorani and Kurmanji
+- [MyMemory dictionaries](https://mymemory.translated.net/) with an open-access API (Sorani)
 
 #### Datasets
 
