@@ -27,7 +27,7 @@ Are you interested in contributing to Kurdish language processing? Check out [th
 - [Tanzil](http://opus.nlpl.eu/Tanzil.php): one Qoran translation alignable with many other translations in other languages, including 11 in English (see [this project](https://github.com/sinaahmadi/KurdishMT))
 - Bible translations in [Kurmanji-Latin](http://ibtrussia.org/en/projects?id=KKD) and [Kurmanji-Cyrillic](http://ibtrussia.org/en/media?id=KKD/cyrl&panel=text)
 - [TED Talks subtitles](https://production-blue.amara.org/en/)
-- - [HLP Colloquial Corpus #1](https://md.taus.net/library/corpus/colloquial-corpus-1-human-language-project-data) (Sorani and Kurmanji (Latin and Arabic)) (*not free*)
+- [HLP Colloquial Corpus #1](https://md.taus.net/library/corpus/colloquial-corpus-1-human-language-project-data) (Sorani and Kurmanji (Latin and Arabic)) (*not free*)
 
 #### Dictionaries, terminologies and ontologies
 Check out [a comprehensive list of Kurdish dictionaries](https://sinaahmadi.github.io/posts/list-of-kurdish-dictionaries.html) and beware of copyright issues in the following projects:
