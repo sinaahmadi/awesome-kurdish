@@ -1,0 +1,606 @@
+@inproceedings{ahmadi-2020-building,
+    title = "Building a Corpus for the {Z}aza{--}Gorani Language Family",
+    author = "Ahmadi, Sina",
+    booktitle = "Proceedings of the 7th Workshop on NLP for Similar Languages, Varieties and Dialects",
+    month = dec,
+    year = "2020",
+    address = "Barcelona, Spain (Online)",
+    publisher = "International Committee on Computational Linguistics (ICCL)",
+    url = "https://www.aclweb.org/anthology/2020.vardial-1.7",
+    pages = "70--78"
+}
+
+@misc{veisi2021jira,
+      title={Jira: a Kurdish Speech Recognition System Designing and Building Speech Corpus and Pronunciation Lexicon}, 
+      author={Hadi Veisi and Hawre Hosseini and Mohammad Mohammadamini and Wirya Fathy and Aso Mahmudi},
+      year={2021},
+      eprint={2102.07412},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI}
+}
+
+@inproceedings{ahmadi-2020-tokenization,
+    title = "A Tokenization System for the {K}urdish Language",
+    author = "Ahmadi, Sina",
+    booktitle = "Proceedings of the 7th Workshop on NLP for Similar Languages, Varieties and Dialects",
+    month = dec,
+    year = "2020",
+    address = "Barcelona, Spain (Online)",
+    publisher = "International Committee on Computational Linguistics (ICCL)",
+    url = "https://www.aclweb.org/anthology/2020.vardial-1.11",
+    pages = "114--127"
+}
+
+@inproceedings{ahmadi-2020-klpt,
+    title = "{KLPT} {--} {K}urdish Language Processing Toolkit",
+    author = "Ahmadi, Sina",
+    booktitle = "Proceedings of Second Workshop for NLP Open Source Software (NLP-OSS)",
+    month = nov,
+    year = "2020",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2020.nlposs-1.11",
+    doi = "10.18653/v1/2020.nlposs-1.11",
+    pages = "72--84"
+}
+
+@misc{mahmudi2021automatic,
+      title={Automatic Meter Classification of Kurdish Poems}, 
+      author={Aso Mahmudi and Hadi Veisi},
+      year={2021},
+      eprint={2102.12109},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+
+@inproceedings{ahmadi2020machine,
+    title = "Towards Machine Translation for the {K}urdish Language",
+    author = "Ahmadi, Sina  and
+      Masoud, Maraim",
+    booktitle = "Proceedings of the 3rd Workshop on Technologies for MT of Low Resource Languages",
+    month = dec,
+    year = "2020",
+    address = "Suzhou, China",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2020.loresmt-1.12",
+    pages = "87--98"
+}
+
+@misc{ahmadi2020leveraging,
+      title={Leveraging Multilingual News Websites for Building a Kurdish Parallel Corpus}, 
+      author={Sina Ahmadi and Hossein Hassani and Daban Q. Jaff},
+      year={2020},
+      eprint={2010.01554},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+
+@inproceedings{mohammed2012automatic,
+  title={Automatic {K}urdish {S}orani text categorization using N-gram based model},
+  author={Mohammed, FS and Zakaria, L and Omar, Nazlia and Albared, MY},
+  booktitle={Computer \& Information Science (ICCIS), 2012 International Conference on},
+  volume={1},
+  pages={392--395},
+  year={2012},
+  organization={IEEE}
+}
+
+@inproceedings{esmaili2013sorani,
+  title={Sorani Kurdish versus Kurmanji Kurdish: An Empirical Comparison},
+  author={Esmaili, Kyumars Sheykh and Salavati, Shahin},
+  booktitle={Proceedings of the 51st Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)},
+  volume={2},
+  pages={300--305},
+  year={2013}
+}
+
+@article{hassani2016automatic,
+  title={Automatic {K}urdish dialects identification},
+  author={Hassani, Hossein and Medjedovic, Dzejla},
+  journal={Computer Science \& Information Technology},
+  volume={6},
+  number={2},
+  pages={61--78},
+  year={2016}
+}
+
+@inproceedings{malmasi2016subdialectal,
+  title={Subdialectal differences in {S}orani {K}urdish},
+  author={Malmasi, Shervin},
+  booktitle={Proceedings of the third workshop on nlp for similar languages, varieties and dialects (vardial3)},
+  pages={89--96},
+  year={2016}
+}
+
+@article{al2017kurdish,
+  title={{K}urdish Dialects and Neighbor Languages Automatic Recognition},
+  author={Al-Talabani, Abdulbasit and Abdul, Zrar and Ameen, Azad},
+  journal={ARO-The Scientific Journal of Koya University},
+  volume={5},
+  number={1},
+  pages={20--23},
+  year={2017},
+  publisher={Koya University}
+}
+
+@inproceedings{littell2016named,
+  title={Named entity recognition for linguistic rapid response in low-resource languages: {S}orani {K}urdish and {T}ajik},
+  author={Littell, Patrick and Goyal, Kartik and Mortensen, David R and Little, Alexa and Dyer, Chris and Levin, Lori},
+  booktitle={Proceedings of COLING 2016, the 26th International Conference on Computational Linguistics: Technical Papers},
+  pages={998--1006},
+  year={2016}
+}
+
+@inproceedings{hassani2017method,
+  title={A Method for Proper Noun Extraction in {K}urdish},
+  author={Hassani, Hossein},
+  booktitle={OASIcs-OpenAccess Series in Informatics},
+  volume={56},
+  year={2017},
+  organization={Schloss Dagstuhl-Leibniz-Zentrum fuer Informatik}
+}
+
+@article{esmaili2012challenges,
+  title={Challenges in {K}urdish text processing},
+  author={Esmaili, Kyumars Sheykh},
+  journal={arXiv preprint arXiv:1212.0074},
+  year={2012}
+}
+
+@article{esmaAl-Talabaniili2014towards,
+  title={Towards {K}urdish information retrieval},
+  author={Esmaili, Kyumars Sheykh and Salavati, Shahin and Datta, Anwitaman},
+  journal={ACM Transactions on Asian Language Information Processing (TALIP)},
+  volume={13},
+  number={2},
+  pages={7},
+  year={2014},
+  publisher={ACM}
+}
+
+@inproceedings{jaf2016simple,
+  title={{A simple approach to unify ambiguously encoded {K}urdish characters}},
+  author={Jaf, Sardar},
+  booktitle={Proceedings of the International Conference Computational Linguistics in Bulgaria (CLIB 2016).},
+  pages={86--94},
+  year={2016},
+  organization={Institute for Bulgarian Language, Bulgarian Academy of Sciences}
+}
+
+@article{rashid2017robust,
+  title={{A robust categorization system for {K}urdish Sorani text documents}},
+  author={Rashid, Tarik A and Mustafa, Arazo M and Saeed, A},
+  journal={Inf. Technol. J},
+  volume={16},
+  number={1},
+  pages={27--34},
+  year={2017}
+}
+
+@article{ahmadi2019wergor,
+  title={{A Rule-based {K}urdish Text Transliteration System}},
+  author={Ahmadi, Sina},
+  journal={Asian and Low-Resource Language Information Processing (TALLIP)},
+  volume={18},
+  number={2},
+  pages={18:1--18:8},
+  year={2019}
+}
+
+@inproceedings{rashid2017automatic,
+  title={Automatic {K}urdish Text Classification Using KDC 4007 Dataset},
+  author={Rashid, Tarik A and Mustafa, Arazo M and Saeed, Ari M},
+  booktitle={International Conference on Emerging Internetworking, Data \& Web Technologies},
+  pages={187--198},
+  year={2017},
+  organization={Springer}
+}
+
+@inproceedings{daneshfar2009implementation,
+  title={{Implementation of a Text-to-Speech System for Kurdish Language}},
+  author={Daneshfar, Fatemeh and Barkhoda, Wafa and Azami, Bahram Zahir},
+  booktitle={Digital Telecommunications, 2009. ICDT'09. Fourth International Conference on},
+  pages={117--120},
+  year={2009},
+  organization={IEEE}
+}
+
+@inproceedings{barkhoda2009comparison,
+  title={{A comparison between allophone, syllable, and diphone based TTS systems for {K}urdish language}},
+  author={Barkhoda, Wafa and ZahirAzami, Bahram and Bahrampour, Anvar and Shahryari, Om-Kolsoom},
+  booktitle={Signal Processing and Information Technology (ISSPIT), 2009 IEEE International Symposium on},
+  pages={557--562},
+  year={2009},
+  organization={IEEE}
+}
+
+@article{hassani2011kurdish,
+  title={{K}urdish text to speech (KTTS)},
+  author={Hassani, Hossein and Kareem, Rahel},
+  journal={Designing for Global Markets},
+  volume={10},
+  pages={79--89},
+  year={2011}
+}
+
+@inproceedings{bahrampour2009implementation,
+  title={{Implementation of three text to speech systems for {K}urdish language}},
+  author={Bahrampour, Anvar and Barkhoda, Wafa and Azami, Bahram Zahir},
+  booktitle={Iberoamerican Congress on Pattern Recognition},
+  pages={321--328},
+  year={2009},
+  organization={Springer}
+}
+
+@inproceedings{dinler2017formant,
+  title={Formant analysis of vowels in {K}urdish language},
+  author={D{\.i}nler, {\"O}zlem Batur and Karab{\i}ber, Fatih},
+  booktitle={Signal Processing and Communications Applications Conference (SIU), 2017 25th},
+  pages={1--4},
+  year={2017},
+  organization={IEEE}
+}
+
+@article{dinler2018extraction,
+  title={Extraction Of The Acoustic Features Of Semi-vowels In the {K}urdish Language},
+  author={D{\.i}nler, {\"O}zlem Batur and Aydin, Nizamettin},
+  journal={The Online Journal of Science and Technology-April},
+  volume={8},
+  number={2},
+  year={2018}
+}
+
+@inproceedings{hassani2017kurdish,
+  title={{K}urdish interdialect machine translation},
+  author={Hassani, Hossein},
+  booktitle={Proceedings of the fourth workshop on NLP for similar languages, varieties and dialects (VarDial)},
+  pages={63--72},
+  year={2017}
+}
+
+@article{kaka2018english,
+  title={{English to {K}urdish Rule-based Machine Translation System}},
+  author={Kaka-Khan, Kanaan M},
+  journal={UHD Journal of Science and Technology},
+  year={2018}
+}
+
+@article{saeed2018improving,
+  title={{Improving {K}urdish Web Mining through Tree Data Structure and Porter’s Stemmer Algorithms}},
+  author={Saeed, Ari M and Rashid, Tarik A and Mustafa, Arazo M and Fattah, Polla and Ismael, Birzo},
+  journal={UKH Journal of Science and Engineering},
+  volume={2},
+  number={1},
+  pages={48--54},
+  year={2018}
+}
+
+@inproceedings{salavati2013stemming,
+  title={{Stemming for {K}urdish information retrieval}},
+  author={Salavati, Shahin and Esmaili, Kyumars Sheykh and Akhlaghian, Fardin},
+  booktitle={Asia Information Retrieval Symposium},
+  pages={272--283},
+  year={2013},
+  organization={Springer}
+}
+
+@inproceedings{gokirmak2017dependency,
+  title={A dependency treebank for {K}urmanji {K}urdish},
+  author={G{\"o}k{\i}rmak, Memduh and Tyers, Francis M},
+  booktitle={Proceedings of the Fourth International Conference on Dependency Linguistics (Depling 2017)},
+  pages={64--72},
+  year={2017}
+}
+
+@inproceedings{salavati2018building,
+  title={{Building a Lemmatizer and a Spell-checker for Sorani Kurdish}},
+  author={Salavati, Shahin and Ahmadi, Sina},
+  booktitle={Proceedings of the 8th Language \& Technology Conference: Human Language Technologies as a Challenge for Computer Science and Linguistics},
+  address = "Poznan, Poland",
+  year={2018}
+}
+
+@inproceedings{walther2010developing,
+  title={Developing a large-scale lexicon for a less-resourced language: General methodology and preliminary experiments on {S}orani {K}urdish},
+  author={Walther, G{\'e}raldine and Sagot, Beno{\^\i}t},
+  booktitle={Proceedings of the 7th SaLTMiL Workshop on Creation and use of basic lexical resources for less-resourced languages (LREC 2010 Workshop)},
+  year={2010}
+}
+
+@inproceedings{walther2010fast,
+  title={Fast Development of Basic NLP Tools: Towards a Lexicon and a POS Tagger for {K}urmanji {K}urdish},
+  author={Walther, G{\'e}raldine and Sagot, Beno{\^\i}t and Fort, Kar{\"e}n},
+  booktitle={International conference on lexis and grammar},
+  pages={0},
+  year={2010}
+}
+
+@inproceedings{walther2012fitting,
+  title={Fitting into morphological structure: accounting for Sorani Kurdish endoclitics},
+  author={Walther, G{\'e}raldine},
+  booktitle={Mediterranean Morphology Meetings},
+  volume={8},
+  pages={299--321},
+  year={2012},
+  note = "[Online; accessed 19-Mar-2019]",
+  howpublished = "\url{http://www.lilec.it/mmm/wp/wp-content/uploads/2013/09/299-321-Walther.pdf}"
+}
+
+@inproceedings{jaf2014stemmer,
+  title={{A Stemmer and a POS tagger for {S}orani {K}urdish}},
+  author={Jaf, Sardar and Ramsay, Allan},
+  booktitle={6th International Conference on Corpus Linguistics (CILC-14)},
+  year={2014},
+  organization={Gran Canaria, Spain, Cambridge Scholars}
+}
+
+@article{mustafa2018kurdish,
+  title={{K}urdish stemmer pre-processing steps for improving information retrieval},
+  author={Mustafa, Arazo M and Rashid, Tarik A},
+  journal={Journal of Information Science},
+  volume={44},
+  number={1},
+  pages={15--27},
+  year={2018},
+  publisher={SAGE Publications Sage UK: London, England}
+}
+
+
+@inproceedings{esmaili2013building,
+  title={Building a test collection for {S}orani {K}urdish},
+  author={Esmaili, Kyumars Sheykh and Eliassi, Donya and Salavati, Shahin and Aliabadi, Purya and Mohammadi, Asrin and Yosefi, Somayeh and Hakimi, Shownem},
+  booktitle={Computer Systems and Applications (AICCSA), 2013 ACS International Conference on},
+  pages={1--7},
+  year={2013},
+  organization={IEEE}
+}
+
+@inproceedings{aliabadi2014towards,
+  title={Towards building kurdnet, the {K}urdish {W}ordnet},
+  author={Aliabadi, Purya and Ahmadi, Mohammad Sina and Salavati, Shahin and Esmaili, Kyumars Sheykh},
+  booktitle={Proceedings of the Seventh Global Wordnet Conference},
+  pages={1--6},
+  year={2014}
+}
+
+@inproceedings{aliabadi2014semi,
+  title={Semi-Automatic Development of {K}urd{N}et, The {K}urdish {W}ordNet},
+  author={Aliabadi, Purya},
+  booktitle={Proceedings of the ACL 2014 Student Research Workshop},
+  pages={94--99},
+  year={2014}
+}
+
+@article{veisi2020toward,
+  title={Toward Kurdish language processing: Experiments in collecting and processing the AsoSoft text corpus},
+  author={Veisi, Hadi and MohammadAmini, Mohammad and Hosseini, Hawre},
+  journal={Digital Scholarship in the Humanities},
+  volume={35},
+  number={1},
+  pages={176--193},
+  year={2020},
+  publisher={Oxford University Press}
+}
+
+@article{hassani2016automatic,
+  title={Automatic {K}urdish dialects identification},
+  author={Hassani, Hossein and Medjedovic, Dzejla},
+  journal={Computer Science \& Information Technology},
+  volume={6},
+  number={2},
+  pages={61--78},
+  year={2016}
+}
+
+@inproceedings{malmasi2016subdialectal,
+  title={Subdialectal differences in {S}orani {K}urdish},
+  author={Malmasi, Shervin},
+  booktitle={Proceedings of the third workshop on nlp for similar languages, varieties and dialects (vardial3)},
+  pages={89--96},
+  year={2016}
+}
+
+@inproceedings{mohammed2012automatic,
+  title={Automatic {K}urdish {S}orani text categorization using N-gram based model},
+  author={Mohammed, FS and Zakaria, L and Omar, Nazlia and Albared, MY},
+  booktitle={Computer \& Information Science (ICCIS), 2012 International Conference on},
+  volume={1},
+  pages={392--395},
+  year={2012},
+  organization={IEEE}
+}
+
+
+@article{hassani2018blark,
+  title={{BLARK for multi-dialect languages: towards the Kurdish BLARK}},
+  author={Hassani, Hossein},
+  journal={Language Resources and Evaluation},
+  volume={52},
+  number={2},
+  pages={625--644},
+  year={2018},
+  publisher={Springer}
+}
+
+@article{yaseen2018kurdish,
+  title={{K}urdish Optical Character Recognition},
+  author={Yaseen, Rasty and Hassani, Hossein},
+  journal={UKH Journal of Science and Engineering},
+  volume={2},
+  number={1},
+  pages={18--27},
+  year={2018}
+}
+
+@article{mohammed2013handwritten,
+  title={Handwritten {K}urdish character recognition using geometric discertization feature},
+  author={Mohammed, Bayan Omar},
+  journal={Volume},
+  volume={4},
+  pages={51--55},
+  year={2013}
+}
+
+@article{dinler2018kurdish,
+  title={{K}urdish Recognition System Digit},
+  author={D{\.i}nler, {\"O}zlem Batur and Aydin, Nizamettin},
+  journal={The Online Journal of Science and Technology},
+  volume={8},
+  number={1},
+  pages={101},
+  year={2018}
+}
+
+@article{mohammed2012uniqueness,
+  title={Uniqueness in {K}urdish handwriting},
+  author={Mohammed, Bayan Omar},
+  journal={International Journal of Engineering \& Computer Science IJECS-IJENS},
+  volume={12},
+  number={06},
+  pages={42--50},
+  year={2012}
+}
+
+@article{zarro2017recognition,
+  title={Recognition-based online {K}urdish character recognition using hidden {M}arkov model and harmony search},
+  author={Zarro, Rina D and Anwer, Mardin A},
+  journal={Engineering Science and Technology, an International Journal},
+  volume={20},
+  number={2},
+  pages={783--794},
+  year={2017},
+  publisher={Elsevier}
+}
+
+@article{shaltookisentiment,
+  title={Sentiment Analyses for {K}urdish Social Network Texts using {N}aive {B}ayes Classifier},
+  author={Shaltooki, Abdusalam Abdulla and Hama, Mzhda Hiwa},
+  journal={Journal of Human Development},
+  volume={1},
+  number={4},
+  pages={393--397},
+  year={2016}
+}
+
+@article{hashim2018kurdish,
+  title={{K}urdish Sign Language Recognition System},
+  author={Hashim, Abdulla D and Alizadeh, Fattah},
+  journal={UKH Journal of Science and Engineering},
+  volume={2},
+  number={1},
+  pages={1--6},
+  year={2018}
+}
+
+@article{kaka2017building,
+  title={Building {K}urdish Chatbot Using Free Open Source Platforms},
+  author={Kaka-Khan, Kanaan M},
+  journal={UHD Journal of Science and Technology},
+  volume={1},
+  number={2},
+  pages={46--50},
+  year={2017}
+}
+
+
+@article{gautier1998building,
+    title={Building a {K}urdish Language Corpus: An Overview of the Technical Problems},
+    author={Gautier, G{\'e}rard},
+    journal={Proceedings of ICEMCO},
+    year={1998}
+}
+
+
+@article{kakaevaluation,
+  title={Evaluation of inkurdish Machine Translation System},
+  author={Kaka-Khan, Kanaan M and Taher, Fatima Jalal},
+  journal={{UHD Journal of Science and Technology}},
+  volume={3},
+  number={2},
+  pages={862--868},
+  year={2017}
+}
+
+
+@inproceedings{ahmadi2020tokenization,
+  title={{A Tokenization System for the Kurdish Language}},
+  author={Ahmadi, Sina},
+  year={2020},
+  booktitle={the Proceedings of the Seventh Workshop on NLP for Similar Languages, Varieties and Dialects (VarDial 2020)},
+}
+
+@inproceedings{ahmadi2020Hunspell,
+  title={{Hunspell for Sorani Kurdish Spell-checking and Morphological Analysis}},
+  author={Ahmadi, Sina},
+  year={2020},
+  publisher={under review}
+}
+
+@inproceedings{ahmadi2020lemmatization,
+  title={{A Lemmatization System for Sorani Kurdish}},
+  author={Ahmadi, Sina},
+  year={2020},
+  publisher={under review}
+}
+
+@article{ahmadi2020towards,
+  title={{Towards Finite-State Morphology of Kurdish}},
+  author={Ahmadi, Sina and Hassani, Hossein},
+  journal={arXiv preprint arXiv:2005.10652},
+  year={2020}
+}
+
+@inproceedings{ahmadi2020corpus,
+  title={{A corpus of the Sorani Kurdish folkloric lyrics}},
+  author={Ahmadi, Sina and Hassani, Hossein and Abedi, Kamaladdin},
+  booktitle={Proceedings of the 1st Joint Spoken Language Technologies for Under-resourced languages (SLTU) and Collaboration and Computing for Under-Resourced Languages (CCURL) Workshop at the 12th International Conference on Language Resources and Evaluation (LREC)},
+  year={2020}
+}
+
+@inproceedings{ahmadi2019towards,
+  title={{Towards electronic lexicography for the Kurdish language}},
+  author={Ahmadi, Sina and Hassani, Hossein and McCrae, John P},
+  booktitle={Proceedings of the sixth biennial conference on electronic lexicography (eLex)},
+  year={2019},
+  organization={eLex 2019}
+}
+
+@inproceedings{abdulrahman2019developing,
+  title={{Developing a Fine-grained Corpus for a Less-resourced Language: the case of Kurdish}},
+  author={Abdulrahman, Roshna and Hassani, Hossein and Ahmadi, Sina},
+  booktitle={Proceedings of the 2019 Workshop on Widening NLP},
+  pages={106--109},
+  year={2019}
+}
+
+@inproceedings{kamal-hassani-2020-towards,
+    title = "Towards {K}urdish Text to Sign Translation",
+    author = "Kamal, Zina  and
+      Hassani, Hossein",
+    booktitle = "Proceedings of the LREC2020 9th Workshop on the Representation and Processing of Sign Languages: Sign Language Resources in the Service of the Language Community, Technological Challenges and Application Perspectives",
+    month = may,
+    year = "2020",
+    address = "Marseille, France",
+    publisher = "European Language Resources Association (ELRA)",
+    url = "https://www.aclweb.org/anthology/2020.signlang-1.19",
+    pages = "117--122"
+}
+
+@article{abdulrahman2020using,
+  title={{Using Punkt for Sentence Segmentation in non-Latin Scripts: Experiments on Kurdish (Sorani) Texts}},
+  author={Abdulrahman, Roshna Omer and Hassani, Hossein},
+  journal={arXiv preprint arXiv:2004.14134},
+  year={2020}
+}
+
+
+@article{saeed2018evaluation,
+  title={{An evaluation of Reber stemmer with longest match stemmer technique in Kurdish Sorani text classification}},
+  author={Saeed, Ari M and Rashid, Tarik A and Mustafa, Arazo M and Agha, Rawan A Al-Rashid and Shamsaldin, Ahmed S and Al-Salihi, Nawzad K},
+  journal={Iran Journal of Computer Science},
+  volume={1},
+  number={2},
+  pages={99--107},
+  year={2018},
+  publisher={Springer}
+}
