@@ -1,6 +1,6 @@
 # Awesome Kurdish
 
-**A curated list of awesome resources, tools and scientific papers for Kurdish language technology** (last updated on 18/03/2020)
+**A curated list of awesome resources, tools and scientific papers for Kurdish language technology** (last updated on 18/03/2021)
 
 Although I do my best to keep this page as comprehensive as possible by including all projects, the list may not include all the fantastic small and big projects regarding Kurdish language processing. Please be kind and notify me by reaching out by email or through our community on [Gitter](https://gitter.im/KurdishNLP/community).
 
@@ -18,7 +18,7 @@ Are you interested in contributing to Kurdish language processing? Check out [th
 - [AsoSoft corpus](https://github.com/AsoSoft/AsoSoft-Text-Corpus) (Sorani)
 - [Kurdish Textbooks Corpus](https://github.com/KurdishBLARK/KTC) (Sorani)
 - [Zaza-Gorani corpus](https://github.com/sinaahmadi/ZazaGoraniCorpus) (Zazaki and Gorani)
-- [HLP Colloquial Corpus #1](https://md.taus.net/library/corpus/colloquial-corpus-1-human-language-project-data) (Sorani and Kurmanji (Latin and Arabic)
+- [HLP Colloquial Corpus #1](https://md.taus.net/library/corpus/colloquial-corpus-1-human-language-project-data) (Sorani and Kurmanji (Latin and Arabic))
 
 
 #### Parallel corpora
