@@ -81,6 +81,9 @@ Check out [a comprehensive list of Kurdish dictionaries](https://sinaahmadi.gith
 - [Apertium](https://github.com/apertium) (Sorani and Kurmanji)
 - [Kurdish MT](https://github.com/sinaahmadi/KurdishMT) (Sorani)
 
+### Named-entity recognition
+- [Autoregressive Entity Retrieval](https://github.com/facebookresearch/GENRE) (Kurmanji)
+
 #### Libraries
 - [Kurdish Language Processing Toolkit](https://github.com/sinaahmadi/klpt): a natural language processing toolkit in Python
 - [Kurdînûs](https://github.com/aso-mehmudi/kurdinus): pure JavaScript tools for transliteration, text conversion and normalization
@@ -162,6 +165,7 @@ These references are provided based on the data collected in the paper entitled 
 |      `dinler2018extraction`     	| 2018 	| Speech recognition                    	| Sorani, Kurmanji         	|
 |        `qader2019kurdish`       	| 2019 	| Speech recognition                    	| Sorani                   	|
 |        `ahmadi-2020-klpt`       	| 2020 	| Toolkits				                   	| Sorani, Kurmanji         	|
+|        `de2021multilingual`       | 2021  | Named-entity recognition                  | Kurmanji          |
 
 
 

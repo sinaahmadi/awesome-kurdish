@@ -1,3 +1,10 @@
+@article{de2021multilingual,
+  title={Multilingual Autoregressive Entity Linking},
+  author={De Cao, Nicola and Wu, Ledell and Popat, Kashyap and Artetxe, Mikel and Goyal, Naman and Plekhanov, Mikhail and Zettlemoyer, Luke and Cancedda, Nicola and Riedel, Sebastian and Petroni, Fabio},
+  journal={arXiv preprint arXiv:2103.12528},
+  year={2021}
+}
+
 @inproceedings{ahmadi-2020-building,
     title = "Building a Corpus for the {Z}aza{--}Gorani Language Family",
     author = "Ahmadi, Sina",
