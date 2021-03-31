@@ -1,6 +1,6 @@
 # Awesome Kurdish
 
-**A curated list of awesome resources, tools and scientific papers for Kurdish language technology** (last updated on 18/03/2021)
+**A curated list of awesome resources, tools and scientific papers for Kurdish language technology** (last updated on 31/03/2021)
 
 Although I do my best to keep this page as comprehensive as possible by including all projects, the list may not include all the fantastic small and big projects regarding Kurdish language processing. Please be kind and notify me by reaching out by email or through our community on [Gitter](https://gitter.im/KurdishNLP/community).
 
