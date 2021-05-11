@@ -1,6 +1,8 @@
 # Awesome Kurdish
 
-**A curated list of awesome resources, tools and scientific papers for Kurdish language technology** (last updated on 31/03/2021)
+(last updated on 11/05/2021)
+
+**A curated list of awesome resources, tools and scientific papers for Kurdish language technology**
 
 Although I do my best to keep this page as comprehensive as possible by including all projects, the list may not include all the fantastic small and big projects regarding Kurdish language processing. Please be kind and notify me by reaching out by email or through our community on [Gitter](https://gitter.im/KurdishNLP/community).
 
@@ -122,6 +124,7 @@ These references are provided based on the data collected in the paper entitled 
 |       `mustafa2018kurdish`      	| 2018 	| Information retrieval and Text mining 	| Sorani                   	|
 |      `saeed2018evaluation`      	| 2018 	| Information retrieval and Text mining 	| Sorani                   	|
 |        `ahmadi2019wergor`       	| 2019 	| Information retrieval and Text mining 	| Sorani                   	|
+|        `mahmudi2021automated`     | 2021  | Information retrieval and Text mining     | Sorani                    |
 |      `esmaili2013building`      	| 2013 	| Lexical resources                     	| Sorani                   	|
 |      `aliabadi2014towards`      	| 2014 	| Lexical resources                     	| Sorani                   	|
 |        `aliabadi2014semi`       	| 2014 	| Lexical resources                     	| Sorani                   	|
@@ -165,8 +168,7 @@ These references are provided based on the data collected in the paper entitled 
 |      `dinler2018extraction`     	| 2018 	| Speech recognition                    	| Sorani, Kurmanji         	|
 |        `qader2019kurdish`       	| 2019 	| Speech recognition                    	| Sorani                   	|
 |        `ahmadi-2020-klpt`       	| 2020 	| Toolkits				                   	| Sorani, Kurmanji         	|
-|        `de2021multilingual`       | 2021  | Named-entity recognition                  | Kurmanji          |
-
+|        `de2021multilingual`       | 2021  | Named-entity recognition                  | Kurmanji                  |
 
 
 ### Cite this repository
