@@ -20,7 +20,7 @@ Are you interested in contributing to Kurdish language processing? Check out [th
 - [AsoSoft corpus](https://github.com/AsoSoft/AsoSoft-Text-Corpus) (Sorani)
 - [Kurdish Textbooks Corpus](https://github.com/KurdishBLARK/KTC) (Sorani)
 - [Zaza-Gorani corpus](https://github.com/sinaahmadi/ZazaGoraniCorpus) (Zazaki and Gorani)
-
+- [Kurdish resources on Clarin](https://vlo.clarin.eu/search;jsessionid=61B467FE3D0D9F9787A01F0BC8E0EEAA?1&fq=languageCode:code:kmr&fq=languageCode:code:ckb&fq=languageCode:code:sdh&fq=languageCode:code:kur&fqType=languageCode:or)
 
 #### Parallel corpora
 
