@@ -84,7 +84,7 @@ Check out [a comprehensive list of Kurdish dictionaries](https://sinaahmadi.gith
 - [Apertium](https://github.com/apertium) (Sorani and Kurmanji)
 - [Kurdish MT](https://github.com/sinaahmadi/KurdishMT) (Sorani)
 
-### Named-entity recognition
+#### Named-entity recognition
 - [Autoregressive Entity Retrieval](https://github.com/facebookresearch/GENRE) (Kurmanji)
 
 #### Libraries
