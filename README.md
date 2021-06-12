@@ -30,6 +30,7 @@ Are you interested in contributing to Kurdish language processing? Check out [th
 - Bible translations in [Kurmanji-Latin](http://ibtrussia.org/en/projects?id=KKD) and [Kurmanji-Cyrillic](http://ibtrussia.org/en/media?id=KKD/cyrl&panel=text)
 - [TED Talks subtitles](https://production-blue.amara.org/en/)
 - [HLP Colloquial Corpus #1](https://md.taus.net/library/corpus/colloquial-corpus-1-human-language-project-data) (Sorani and Kurmanji (Latin and Arabic)) (*not free*)
+- A [parallel corpus](https://github.com/mihemmed/Kurdish-Machine-Translation-Project-KMTP-) of Sorani-English text
 
 #### Dictionaries, terminologies and ontologies
 Check out [a comprehensive list of Kurdish dictionaries](https://sinaahmadi.github.io/posts/list-of-kurdish-dictionaries.html) and beware of copyright issues in the following projects:
@@ -54,7 +55,7 @@ Check out [a comprehensive list of Kurdish dictionaries](https://sinaahmadi.gith
 - [Wergor transliteration datasets](https://github.com/sinaahmadi/wergor)
 - [Web Inventory of Transcribed and Translated Talks (WIT3)](https://wit3.fbk.eu/) (Sorani)
 - [Sorani](https://github.com/unimorph/ckb) and [Kurmanji](https://github.com/unimorph/kmr) morphological datasets in UniMorph
-
+- [FakeKurdNews](https://github.com/rania-azad/FakeKurdNews---Fake-Kurdish-News-Dataset), an annotated dataset for Sorani Kurdish fake news detection
 
 #### Other resources
 
@@ -140,6 +141,7 @@ These references are provided based on the data collected in the paper entitled 
 |       `hassani2017kurdish`      	| 2017 	| Machine Translation                   	| Sorani, Kurmanji         	|
 |        `kaka2018english`        	| 2018 	| Machine Translation                   	| Sorani                   	|
 |        `ahmadi2020machine`        | 2020 	| Machine Translation                   	| Sorani                   	|
+|        `baban1995programmable`    | 1995  | Morphological and syntactic analysis      | Sorani                    |
 |     `walther2010developing`     	| 2010 	| Morphological and syntactic analysis  	| Sorani                   	|
 |        `walther2010fast`        	| 2010 	| Morphological and syntactic analysis  	| Kurmanji                 	|
 |      `salavati2013stemming`     	| 2013 	| Morphological and syntactic analysis  	| Sorani                   	|
@@ -169,7 +171,6 @@ These references are provided based on the data collected in the paper entitled 
 |        `qader2019kurdish`       	| 2019 	| Speech recognition                    	| Sorani                   	|
 |        `ahmadi-2020-klpt`       	| 2020 	| Toolkits				                   	| Sorani, Kurmanji         	|
 |        `de2021multilingual`       | 2021  | Named-entity recognition                  | Kurmanji                  |
-
 
 ### Cite this repository
 
