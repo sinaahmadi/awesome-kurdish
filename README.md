@@ -31,6 +31,7 @@ Are you interested in contributing to Kurdish language processing? Check out [th
 - [TED Talks subtitles](https://production-blue.amara.org/en/)
 - [HLP Colloquial Corpus #1](https://md.taus.net/library/corpus/colloquial-corpus-1-human-language-project-data) (Sorani and Kurmanji (Latin and Arabic)) (*not free*)
 - A [parallel corpus](https://github.com/mihemmed/Kurdish-Machine-Translation-Project-KMTP-) of Sorani-English text
+- [FLORES-101 Evaluation Benchmark for Low-Resource and Multilingual Machine Translation](https://github.com/facebookresearch/flores) (Sorani)
 
 #### Dictionaries, terminologies and ontologies
 Check out [a comprehensive list of Kurdish dictionaries](https://sinaahmadi.github.io/posts/list-of-kurdish-dictionaries.html) and beware of copyright issues in the following projects:
@@ -140,7 +141,8 @@ These references are provided based on the data collected in the paper entitled 
 |        `veisi2021jira`	    	| 2021 	| Lexical resources                     	| Sorani	            	|
 |       `hassani2017kurdish`      	| 2017 	| Machine Translation                   	| Sorani, Kurmanji         	|
 |        `kaka2018english`        	| 2018 	| Machine Translation                   	| Sorani                   	|
-|        `ahmadi2020machine`        | 2020 	| Machine Translation                   	| Sorani                   	|
+|        `ahmadi2020machine`        | 2020 	| Machine Translation                   	| Sorani                    |
+|        `goyal2021flores`          | 2021  | Machine Translation                       | 101 languages incl. Sorani|
 |        `baban1995programmable`    | 1995  | Morphological and syntactic analysis      | Sorani                    |
 |     `walther2010developing`     	| 2010 	| Morphological and syntactic analysis  	| Sorani                   	|
 |        `walther2010fast`        	| 2010 	| Morphological and syntactic analysis  	| Kurmanji                 	|
