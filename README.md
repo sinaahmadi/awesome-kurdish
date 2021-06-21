@@ -75,14 +75,14 @@ Check out [a comprehensive list of Kurdish dictionaries](https://sinaahmadi.gith
 - [Kurdish Tokenization](https://github.com/sinaahmadi/KurdishTokenization)
 - [Jedar stemmer](https://github.com/klpp/codes/tree/master/stemming)
 - Apertium project for [Kurmanji](https://github.com/apertium/apertium-kmr) and [Sorani](https://github.com/apertium/apertium-ckb) morphological analysis
-- [Kurdish Hunspell](https://github.com/sinaahmadi/KurdishHunspell) for Sorani morphological analysis
+- [Kurdish Hunspell](https://github.com/sinaahmadi/KurdishHunspell) for Sorani morphological analysig, spell checking, stemming and lemmatization
 - [Part-of-speech tagger](https://github.com/sinaahmadi/KurdishPOSTagger) (Sorani)
 - [Alexina Framework](https://gforge.inria.fr/projects/alexina/): morphological analysis and POS-tagger for Sorani (`soralex`) and Kurmanji (`kurlex`)
 - [Kurdspell](https://github.com/Kurdspell/Kurdspell) for Sorani spell checking
-- [Kurdish Hunspell](https://github.com/sinaahmadi/KurdishHunspell) for Sorani spell checking
+- [Apertium rule-based Sorani spell-checker](https://github.com/rezKamal/ckb-spellchecker)
 
 #### Machine translation
-- [Apertium](https://github.com/apertium) (Sorani and Kurmanji)
+- [Apertium](https://github.com/apertium) ([Sorani](https://github.com/apertium/apertium-ckb-eng) and [Kurmanji](https://github.com/apertium/apertium-kmr-eng))
 - [Kurdish MT](https://github.com/sinaahmadi/KurdishMT) (Sorani)
 
 #### Named-entity recognition
