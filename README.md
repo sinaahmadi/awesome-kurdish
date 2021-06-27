@@ -113,6 +113,7 @@ These references are provided based on the data collected in the paper entitled 
 |      `hassani2016automatic`     	| 2016 	| Dialectology                          	| Sorani, Kurmanji         	|
 |    `malmasi2016subdialectal`    	| 2016 	| Dialectology                          	| Sorani                   	|
 |         `al2017kurdish`         	| 2017 	| Dialectology                          	| Sorani, Kurmanji, Gorani 	|
+|        `amani:hal-03262435`       | 2021  | Dialectology                              | Kurdish, Zazaki & Gorani  |
 |     `mohammed2012automatic`     	| 2012 	| Information retrieval and Text mining 	| Sorani                   	|
 |     `esmaili2012challenges`     	| 2012 	| Information retrieval and Text mining 	| Sorani                   	|
 |        `littell2016named`       	| 2016 	| Information retrieval and Text mining 	| Sorani                   	|
@@ -143,6 +144,7 @@ These references are provided based on the data collected in the paper entitled 
 |        `kaka2018english`        	| 2018 	| Machine Translation                   	| Sorani                   	|
 |        `ahmadi2020machine`        | 2020 	| Machine Translation                   	| Sorani                    |
 |        `goyal2021flores`          | 2021  | Machine Translation                       | 101 languages incl. Sorani|
+|        `amini2021central`         | 2021  | Machine Translation                       | Sorani                    |
 |        `baban1995programmable`    | 1995  | Morphological and syntactic analysis      | Sorani                    |
 |     `walther2010developing`     	| 2010 	| Morphological and syntactic analysis  	| Sorani                   	|
 |        `walther2010fast`        	| 2010 	| Morphological and syntactic analysis  	| Kurmanji                 	|
@@ -173,6 +175,7 @@ These references are provided based on the data collected in the paper entitled 
 |        `qader2019kurdish`       	| 2019 	| Speech recognition                    	| Sorani                   	|
 |        `ahmadi-2020-klpt`       	| 2020 	| Toolkits				                   	| Sorani, Kurmanji         	|
 |        `de2021multilingual`       | 2021  | Named-entity recognition                  | Kurmanji                  |
+
 
 ### Cite this repository
 
