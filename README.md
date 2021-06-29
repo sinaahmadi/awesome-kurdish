@@ -104,7 +104,7 @@ In addition to these, you can find further information in other repositories and
 
 ## Research
 
-These references are provided based on the data collected in the paper entitled [KLPT – Kurdish Language Processing Toolkit](https://sinaahmadi.github.io/docs/articles/ahmadi2020klpt.pdf). Note that references are provided in the [`bibliography`](https://github.com/sinaahmadi/awesome-kurdish/blob/main/bibliography.txt) file.
+These references are provided based on the data collected in the paper entitled [KLPT – Kurdish Language Processing Toolkit](https://sinaahmadi.github.io/docs/articles/ahmadi2020klpt.pdf). Note that references are provided in the [`bibliography`](https://github.com/sinaahmadi/awesome-kurdish/blob/main/bibliography.bib) file.
 
 
 |               Reference              	| Year 	| Field                                 	| dialects                 	|
