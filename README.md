@@ -36,7 +36,7 @@ Are you interested in contributing to Kurdish language processing? Check out [th
 #### Dictionaries, terminologies and ontologies
 Check out [a comprehensive list of Kurdish dictionaries](https://sinaahmadi.github.io/posts/list-of-kurdish-dictionaries.html) and beware of copyright issues in the following projects:
 
-- [Kurdish lexicographical resources in Ontolex-Lemon](https://github.com/KurdishBLARK/KurdishLex) (Sorani, Kurmanji, Gorani)
+- [Kurdish lexicographical resources in Ontolex-Lemon](https://github.com/sinaahmadi/KurdishLexicography) (Sorani, Kurmanji, Gorani and Southern Kurdish)
 - Check [Dolan Hêriş](https://github.com/dolanskurd?tab=repositories)'s repositories for a list of Kurdish dictionaries and tools to extract words
 - [KurdNet-the Kurdish wordNet](https://sinaahmadi.github.io/resources/kurdnet.html) (Sorani)
 - [Kurdish annotated lexicon](https://github.com/sinaahmadi/KurdishHunspell/blob/main/ckb/ckb-Arab.dic) (Sorani)
