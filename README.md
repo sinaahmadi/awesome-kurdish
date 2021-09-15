@@ -1,6 +1,6 @@
 # Awesome Kurdish
 
-(last updated on 12/06/2021)
+(last updated on 15/09/2021)
 
 **A curated list of awesome resources, tools and scientific papers for Kurdish language technology**
 
@@ -50,13 +50,23 @@ Check out [a comprehensive list of Kurdish dictionaries](https://sinaahmadi.gith
 - [A Twitter dataset](https://github.com/ftkurt/kurdish-twitter-data) (Sorani and Kurmanji)
 - [Datasets for text to Kurdish Sign Language](https://github.com/KurdishBLARK/KurdishSignLanguage) (Sorani)
 - [A dataset for speech recognition](https://github.com/KurdishBLARK/BD-4SK-ASR) (Sorani)
-- [A sentence-segmented dataset](https://github.com/KurdishBLARK/KTC-Segmented) (Sorani)
-- [Evaluation datasets for Kurdish Grapheme-to-Phoneme Conversion systems](https://github.com/AsoSoft/Kurdish-G2P-dataset) (Sorani)
 - [Universal dependency](https://github.com/UniversalDependencies/UD_Kurmanji-MG) (Kurmanji)
-- [Wergor transliteration datasets](https://github.com/sinaahmadi/wergor)
 - [Web Inventory of Transcribed and Translated Talks (WIT3)](https://wit3.fbk.eu/) (Sorani)
 - [Sorani](https://github.com/unimorph/ckb) and [Kurmanji](https://github.com/unimorph/kmr) morphological datasets in UniMorph
 - [FakeKurdNews](https://github.com/rania-azad/FakeKurdNews---Fake-Kurdish-News-Dataset), an annotated dataset for Sorani Kurdish fake news detection
+
+### Benchmarks
+- Morphological analysis:
+    - [KurdishHunspell evaluation datasets](https://github.com/sinaahmadi/KurdishHunspell) (Sorani)
+- Tokenization: 
+    - [KurdishTokenization](https://github.com/sinaahmadi/KurdishTokenization) (Sorani, Kurmanji)
+    - [A sentence-segmented dataset](https://github.com/KurdishBLARK/KTC-Segmented) (Sorani)
+- Transliteration
+    - [Wergor transliteration datasets](https://github.com/sinaahmadi/wergor)
+    - [Evaluation datasets for Kurdish Grapheme-to-Phoneme Conversion systems](https://github.com/AsoSoft/Kurdish-G2P-dataset) (Sorani)
+- Spelling error correction
+    - [Central-Kurdish-Spelling-dataset](https://github.com/AsoSoft/Central-Kurdish-Spelling-dataset)
+    
 
 #### Other resources
 
@@ -156,6 +166,8 @@ These references are provided based on the data collected in the paper entitled 
 |       `mustafa2018kurdish`      	| 2018 	| Morphological and syntactic analysis  	| Sorani                   	|
 |       `ahmadi2020towards`       	| 2020 	| Morphological and syntactic analysis  	| Sorani                   	|
 |       `ahmadi-2020-tokenization` 	| 2020 	| Morphological and syntactic analysis  	| Sorani, Kurmanji         	|
+|       `ahmadi2021modelling`       | 2021  | Morphological and syntactic analysis      | Sorani                    |
+|       `ahmadi2020Hunspell`        | 2021  | Morphological and syntactic analysis      | Sorani                    |
 |     `mohammed2012uniqueness`    	| 2012 	| Optical character recognition         	| Sorani                   	|
 |    `mohammed2013handwritten`    	| 2013 	| Optical character recognition         	| Sorani                   	|
 |       `shaltookisentiment`      	| 2016 	| Optical character recognition         	| Sorani                   	|
