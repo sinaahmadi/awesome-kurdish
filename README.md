@@ -1,6 +1,6 @@
 # Awesome Kurdish
 
-(last updated on 15/09/2021)
+(last updated on 24/09/2021)
 
 **A curated list of awesome resources, tools and scientific papers for Kurdish language technology**
 
@@ -86,6 +86,7 @@ Check out [a comprehensive list of Kurdish dictionaries](https://sinaahmadi.gith
 - [Jedar stemmer](https://github.com/klpp/codes/tree/master/stemming)
 - Apertium project for [Kurmanji](https://github.com/apertium/apertium-kmr) and [Sorani](https://github.com/apertium/apertium-ckb) morphological analysis
 - [Kurdish Hunspell](https://github.com/sinaahmadi/KurdishHunspell) for Sorani morphological analysig, spell checking, stemming and lemmatization
+- [A finite-state morphological analyzer for Central Kurdish](https://github.com/CKMorph) (Sorani)
 - [Part-of-speech tagger](https://github.com/sinaahmadi/KurdishPOSTagger) (Sorani)
 - [Alexina Framework](https://gforge.inria.fr/projects/alexina/): morphological analysis and POS-tagger for Sorani (`soralex`) and Kurmanji (`kurlex`)
 - [Kurdspell](https://github.com/Kurdspell/Kurdspell) for Sorani spell checking
@@ -168,6 +169,7 @@ These references are provided based on the data collected in the paper entitled 
 |       `ahmadi-2020-tokenization` 	| 2020 	| Morphological and syntactic analysis  	| Sorani, Kurmanji         	|
 |       `ahmadi2021modelling`       | 2021  | Morphological and syntactic analysis      | Sorani                    |
 |       `ahmadi2020Hunspell`        | 2021  | Morphological and syntactic analysis      | Sorani                    |
+|       `naserzade2021ckmorph`      | 2021  | Morphological and syntactic analysis      | Sorani                    |
 |     `mohammed2012uniqueness`    	| 2012 	| Optical character recognition         	| Sorani                   	|
 |    `mohammed2013handwritten`    	| 2013 	| Optical character recognition         	| Sorani                   	|
 |       `shaltookisentiment`      	| 2016 	| Optical character recognition         	| Sorani                   	|
