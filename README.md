@@ -1,6 +1,6 @@
 # Awesome Kurdish
 
-(last updated on 24/09/2021)
+(last updated on 11/10/2021)
 
 **A curated list of awesome resources, tools and scientific papers for Kurdish language technology**
 
@@ -21,6 +21,7 @@ Are you interested in contributing to Kurdish language processing? Check out [th
 - [Kurdish Textbooks Corpus](https://github.com/KurdishBLARK/KTC) (Sorani)
 - [Zaza-Gorani corpus](https://github.com/sinaahmadi/ZazaGoraniCorpus) (Zazaki and Gorani)
 - [Kurdish resources on Clarin](https://vlo.clarin.eu/search;jsessionid=61B467FE3D0D9F9787A01F0BC8E0EEAA?1&fq=languageCode:code:kmr&fq=languageCode:code:ckb&fq=languageCode:code:sdh&fq=languageCode:code:kur&fqType=languageCode:or)
+- [University of Bamberg's corpora](https://multicast.aspra.uni-bamberg.de/resources/#kurdish) [Kurmanji & Laki]
 
 #### Parallel corpora
 
