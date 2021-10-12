@@ -1,6 +1,6 @@
 # Awesome Kurdish
 
-(last updated on 11/10/2021)
+(last updated on 12/10/2021)
 
 **A curated list of awesome resources, tools and scientific papers for Kurdish language technology**
 
@@ -92,6 +92,7 @@ Check out [a comprehensive list of Kurdish dictionaries](https://sinaahmadi.gith
 - [Alexina Framework](https://gforge.inria.fr/projects/alexina/): morphological analysis and POS-tagger for Sorani (`soralex`) and Kurmanji (`kurlex`)
 - [Kurdspell](https://github.com/Kurdspell/Kurdspell) for Sorani spell checking
 - [Apertium rule-based Sorani spell-checker](https://github.com/rezKamal/ckb-spellchecker)
+- [Gende Stemmer](https://github.com/mhmd-azeez/GendeStemmer) (Sorani)
 
 #### Machine translation
 - [Apertium](https://github.com/apertium) ([Sorani](https://github.com/apertium/apertium-ckb-eng) and [Kurmanji](https://github.com/apertium/apertium-kmr-eng))
