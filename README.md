@@ -1,6 +1,6 @@
 # Awesome Kurdish
 
-(last updated on 12/10/2021)
+(last updated on 26/10/2021)
 
 **A curated list of awesome resources, tools and scientific papers for Kurdish language technology**
 
@@ -93,6 +93,8 @@ Check out [a comprehensive list of Kurdish dictionaries](https://sinaahmadi.gith
 - [Kurdspell](https://github.com/Kurdspell/Kurdspell) for Sorani spell checking
 - [Apertium rule-based Sorani spell-checker](https://github.com/rezKamal/ckb-spellchecker)
 - [Gende Stemmer](https://github.com/mhmd-azeez/GendeStemmer) (Sorani)
+- [Conversion of numbers into words](https://www.kurd.cc/numbers-to-kurdish-words) (Sorani and Kurmanji)
+- [Conversion of words into IPA](https://www.kurd.cc/kurdish-text-to-ipa-phonetics) (Kurmanji)
 
 #### Machine translation
 - [Apertium](https://github.com/apertium) ([Sorani](https://github.com/apertium/apertium-ckb-eng) and [Kurmanji](https://github.com/apertium/apertium-kmr-eng))
@@ -178,6 +180,7 @@ These references are provided based on the data collected in the paper entitled 
 |      `zarro2017recognition`     	| 2017 	| Optical character recognition         	| Sorani                   	|
 |       `yaseen2018kurdish`       	| 2018 	| Optical character recognition         	| Sorani                   	|
 |       `dinler2018kurdish`       	| 2018 	| Optical character recognition         	| Sorani                   	|
+|        `app11209752`              | 2021  | Optical character recognition             | Sorani                    |
 |        `kaka2017building`       	| 2017 	| Other                                 	| Sorani                   	|
 |        `mahmudi2021automatic`     | 2021 	| Other                                 	| Sorani                   	|
 |       `hashim2018kurdish`       	| 2018 	| Sign language recognition             	| Sorani                   	|
