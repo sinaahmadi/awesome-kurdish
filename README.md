@@ -1,6 +1,6 @@
 # Awesome Kurdish
 
-(last updated on 26/10/2021)
+(last updated on 15/06/2022)
 
 **A curated list of awesome resources, tools and scientific papers for Kurdish language technology**
 
@@ -55,6 +55,7 @@ Check out [a comprehensive list of Kurdish dictionaries](https://sinaahmadi.gith
 - [Web Inventory of Transcribed and Translated Talks (WIT3)](https://wit3.fbk.eu/) (Sorani)
 - [Sorani](https://github.com/unimorph/ckb) and [Kurmanji](https://github.com/unimorph/kmr) morphological datasets in UniMorph
 - [FakeKurdNews](https://github.com/rania-azad/FakeKurdNews---Fake-Kurdish-News-Dataset), an annotated dataset for Sorani Kurdish fake news detection
+- [profanity language](https://github.com/MohammedSardar/Bive) (Sorani)
 
 ### Benchmarks
 - Morphological analysis:
