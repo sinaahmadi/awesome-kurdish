@@ -1,6 +1,6 @@
 # Awesome Kurdish
 
-(last updated on 15/06/2022)
+(last updated on 25/06/2022)
 
 **A curated list of awesome resources, tools and scientific papers for Kurdish language technology**
 
@@ -33,6 +33,7 @@ Are you interested in contributing to Kurdish language processing? Check out [th
 - [HLP Colloquial Corpus #1](https://md.taus.net/library/corpus/colloquial-corpus-1-human-language-project-data) (Sorani and Kurmanji (Latin and Arabic)) (*not free*)
 - A [parallel corpus](https://github.com/mihemmed/Kurdish-Machine-Translation-Project-KMTP-) of Sorani-English text
 - [FLORES-101 Evaluation Benchmark for Low-Resource and Multilingual Machine Translation](https://github.com/facebookresearch/flores) (Sorani)
+- [AsoSoft Speech Corpus for Central-Kurdish Text-To-Speech](https://github.com/AsoSoft/AsoSoft-TTS-Speech-Corpus-for-Central-Kurdish) (Sorani)
 
 #### Dictionaries, terminologies and ontologies
 Check out [a comprehensive list of Kurdish dictionaries](https://sinaahmadi.github.io/posts/list-of-kurdish-dictionaries.html) and beware of copyright issues in the following projects:
