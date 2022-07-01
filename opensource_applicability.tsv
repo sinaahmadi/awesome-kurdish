@@ -1,0 +1,73 @@
+Reference	Year	Field	Open-source	Applicability	Dialects
+esmaili2013sorani	2013	Dialectology	no	no	Sorani, Kurmanji
+hassani2016automatic	2016	Dialectology	no	yes	Sorani, Kurmanji
+malmasi2016subdialectal	2016	Dialectology	yes	no	Sorani
+al2017kurdish	2017	Dialectology	no	yes	Sorani, Kurmanji, Gorani
+amani:hal-03262435	2021	Dialectology	yes	yes	Kurdish, Zazaki & Gorani
+mohammed2012automatic	2012	Information retrieval and Text mining	no	yes	Sorani
+esmaili2012challenges	2012	Information retrieval and Text mining	no	yes	Sorani
+littell2016named	2016	Information retrieval and Text mining	no	yes	Sorani
+hassani2017method	2017	Information retrieval and Text mining	no	yes	Sorani, Kurmanji
+esmaAl-Talabaniili2014towards	2014	Information retrieval and Text mining	yes	yes	Sorani, Kurmanji
+jaf2016simple	2016	Information retrieval and Text mining	no	yes	Sorani
+rashid2017robust	2017	Information retrieval and Text mining	no	yes	Sorani
+rashid2017automatic	2017	Information retrieval and Text mining	no	yes	Sorani
+saeed2018improving	2018	Information retrieval and Text mining	no	yes	Sorani
+mustafa2018kurdish	2018	Information retrieval and Text mining	no	yes	Sorani
+saeed2018evaluation	2018	Information retrieval and Text mining	no	yes	Sorani
+ahmadi2019wergor	2019	Information retrieval and Text mining	yes	yes	Sorani
+mahmudi2021automated	2021	Information retrieval and Text mining	yes	yes	Sorani
+abdulrahman2022lmspell	2022	Information retrieval and Text mining	no	no	Sorani
+esmaili2013building	2013	Lexical resources	yes	yes	Sorani
+aliabadi2014towards	2014	Lexical resources	yes	yes	Sorani
+aliabadi2014semi	2014	Lexical resources	no	yes	Sorani
+ataman2018bianet	2018	Lexical resources	yes	yes	Kurmanji
+ahmadi2019towards	2019	Lexical resources	yes	yes	Sorani, Kurmanji, Gorani
+abdulrahman2019developing	2019	Lexical resources	yes	yes	Sorani
+abdulrahman2020using	2020	Lexical resources	yes	yes	Sorani
+veisi2020toward	2020	Lexical resources	yes	no	Sorani
+ahmadi2020corpus	2020	Lexical resources	yes	yes	Sorani
+ahmadi-2020-building	2020	Lexical resources	yes	yes	Zaza, Gorani
+veisi2021jira	2021	Lexical resources	yes	yes	Sorani
+azin2021sk	2021	Lexical resources	yes	no	Southern Kurdish
+hassani2017kurdish	2017	Machine Translation	no	yes	Sorani, Kurmanji
+kaka2018english	2018	Machine Translation	no	yes	Sorani
+ahmadi2020machine	2020	Machine Translation	yes	yes	Sorani
+goyal2021flores	2021	Machine Translation	yes	yes	101 languages incl. Sorani
+amini2021central	2021	Machine Translation	yes	yes	Sorani
+ahmadi2022leveraging	2022	Machine Translation	yes	yes	Sorani
+baban1995programmable	1995	Morphological and syntactic analysis	no	no	Sorani
+walther2010developing	2010	Morphological and syntactic analysis	yes	yes	Sorani
+walther2010fast	2010	Morphological and syntactic analysis	yes	yes	Kurmanji
+salavati2013stemming	2013	Morphological and syntactic analysis	yes	yes	Sorani
+jaf2014stemmer	2014	Morphological and syntactic analysis	no	yes	Sorani
+jaf2016chapter	2016	Morphological and syntactic analysis	no	yes	Sorani
+gokirmak2017dependency	2017	Morphological and syntactic analysis	yes	yes	Kurmanji
+salavati2018building	2018	Morphological and syntactic analysis	no	yes	Sorani
+mustafa2018kurdish	2018	Morphological and syntactic analysis	no	yes	Sorani
+ahmadi2020towards	2020	Morphological and syntactic analysis	no	yes	Sorani
+ahmadi-2020-tokenization	2020	Morphological and syntactic analysis	yes	yes	Sorani, Kurmanji
+ahmadi2021modelling	2021	Morphological and syntactic analysis	yes	no	Sorani
+ahmadi2020Hunspell	2021	Morphological and syntactic analysis	yes	yes	Sorani
+naserzade2021ckmorph	2021	Morphological and syntactic analysis	yes	yes	Sorani
+mohammed2012uniqueness	2012	Optical character recognition	no	yes	Sorani
+mohammed2013handwritten	2013	Optical character recognition	no	yes	Sorani
+shaltookisentiment	2016	Optical character recognition	no	yes	Sorani
+zarro2017recognition	2017	Optical character recognition	no	yes	Sorani
+yaseen2018kurdish	2018	Optical character recognition	no	yes	Sorani
+dinler2018kurdish	2018	Optical character recognition	no	yes	Sorani
+app11209752	2021	Optical character recognition	no	no	Sorani
+kaka2017building	2017	Other	no	yes	Sorani
+mahmudi2021automatic	2021	Other	yes	yes	Sorani
+ahmadi2021ickl	2021	Other	no	yes	Sorani
+hashim2018kurdish	2018	Sign language recognition	no	yes	Sorani
+kamal-hassani-2020-towards	2020	Sign language recognition	yes	yes	Sorani
+daneshfar2009implementation	2009	Speech recognition	no	yes	Sorani
+barkhoda2009comparison	2009	Speech recognition	no	no	Sorani
+bahrampour2009implementation	2009	Speech recognition	no	yes	Sorani
+hassani2011kurdish	2011	Speech recognition	no	yes	Sorani
+dinler2017formant	2017	Speech recognition	no	no	Kurmanji
+dinler2018extraction	2018	Speech recognition	no	yes	Sorani, Kurmanji
+qader2019kurdish	2019	Speech recognition	yes	yes	Sorani
+ahmadi-2020-klpt	2020	Toolkits	yes	yes	Sorani, Kurmanji
+de2021multilingual	2021	Named-entity recognition	yes	yes	Kurmanji
