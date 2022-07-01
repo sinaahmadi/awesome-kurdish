@@ -145,6 +145,7 @@ These references are provided based on the data collected in the paper entitled 
 |      `saeed2018evaluation`      	| 2018 	| Information retrieval and Text mining 	| Sorani                   	|
 |        `ahmadi2019wergor`       	| 2019 	| Information retrieval and Text mining 	| Sorani                   	|
 |        `mahmudi2021automated`     | 2021  | Information retrieval and Text mining     | Sorani                    |
+|        `abdulrahman2022lmspell`   | 2022  | Information retrieval and Text mining     | Sorani                    |
 |      `esmaili2013building`      	| 2013 	| Lexical resources                     	| Sorani                   	|
 |      `aliabadi2014towards`      	| 2014 	| Lexical resources                     	| Sorani                   	|
 |        `aliabadi2014semi`       	| 2014 	| Lexical resources                     	| Sorani                   	|
@@ -155,13 +156,14 @@ These references are provided based on the data collected in the paper entitled 
 |        `veisi2020toward`        	| 2020 	| Lexical resources                     	| Sorani                   	|
 |        `ahmadi2020corpus`       	| 2020 	| Lexical resources                     	| Sorani                   	|
 |        `ahmadi-2020-building`    	| 2020 	| Lexical resources                     	| Zaza, Gorani             	|
-|        `ahmadi2020leveraging`	   	| 2020 	| Lexical resources                     	| Sorani	            	|
 |        `veisi2021jira`	    	| 2021 	| Lexical resources                     	| Sorani	            	|
+|        `azin2021sk`               | 2021  | Lexical resources                         | Southern Kurdish          |
 |       `hassani2017kurdish`      	| 2017 	| Machine Translation                   	| Sorani, Kurmanji         	|
 |        `kaka2018english`        	| 2018 	| Machine Translation                   	| Sorani                   	|
 |        `ahmadi2020machine`        | 2020 	| Machine Translation                   	| Sorani                    |
 |        `goyal2021flores`          | 2021  | Machine Translation                       | 101 languages incl. Sorani|
 |        `amini2021central`         | 2021  | Machine Translation                       | Sorani                    |
+|        `ahmadi2022leveraging`     | 2022  | Machine Translation                       | Sorani                    |
 |        `baban1995programmable`    | 1995  | Morphological and syntactic analysis      | Sorani                    |
 |     `walther2010developing`     	| 2010 	| Morphological and syntactic analysis  	| Sorani                   	|
 |        `walther2010fast`        	| 2010 	| Morphological and syntactic analysis  	| Kurmanji                 	|
@@ -185,6 +187,7 @@ These references are provided based on the data collected in the paper entitled 
 |        `app11209752`              | 2021  | Optical character recognition             | Sorani                    |
 |        `kaka2017building`       	| 2017 	| Other                                 	| Sorani                   	|
 |        `mahmudi2021automatic`     | 2021 	| Other                                 	| Sorani                   	|
+|        `ahmadi2021ickl`           | 2021  | Other                                     | Sorani                    |
 |       `hashim2018kurdish`       	| 2018 	| Sign language recognition             	| Sorani                   	|
 |   `kamal-hassani-2020-towards`  	| 2020 	| Sign language recognition             	| Sorani                   	|
 |  `daneshfar2009implementation`  	| 2009 	| Speech recognition                    	| Sorani                   	|
@@ -196,6 +199,7 @@ These references are provided based on the data collected in the paper entitled 
 |        `qader2019kurdish`       	| 2019 	| Speech recognition                    	| Sorani                   	|
 |        `ahmadi-2020-klpt`       	| 2020 	| Toolkits				                   	| Sorani, Kurmanji         	|
 |        `de2021multilingual`       | 2021  | Named-entity recognition                  | Kurmanji                  |
+
 
 
 ### Cite this repository
