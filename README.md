@@ -140,7 +140,6 @@ These references are provided based on the data collected in the paper entitled 
 |        `rashid2017robust`       	| 2017 	| Information retrieval and Text mining 	| Sorani                   	|
 |      `rashid2017automatic`      	| 2017 	| Information retrieval and Text mining 	| Sorani                   	|
 |       `saeed2018improving`      	| 2018 	| Information retrieval and Text mining 	| Sorani                   	|
-|       `saeed2018improving`      	| 2018 	| Information retrieval and Text mining 	| Sorani                   	|
 |       `mustafa2018kurdish`      	| 2018 	| Information retrieval and Text mining 	| Sorani                   	|
 |      `saeed2018evaluation`      	| 2018 	| Information retrieval and Text mining 	| Sorani                   	|
 |        `ahmadi2019wergor`       	| 2019 	| Information retrieval and Text mining 	| Sorani                   	|
