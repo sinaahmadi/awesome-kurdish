@@ -1,6 +1,6 @@
 # Awesome Kurdish
 
-(last updated on 25/06/2022)
+(last updated on 01/07/2022)
 
 **A curated list of awesome resources, tools and scientific papers for Kurdish language technology**
 
