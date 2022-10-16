@@ -48,6 +48,7 @@ Check out [a comprehensive list of Kurdish dictionaries](https://sinaahmadi.gith
 
 #### Datasets
 
+- [Manchester Database of Kurdish Dialects](http://kratylos.org/~raphael/kurdish/database-of-kurdish-dialects/index.html)
 - [Dataset of Kurdish poems with meter and form tags](https://github.com/AsoSoft/Vejinbooks-Poem-Dataset)
 - [A Twitter dataset](https://github.com/ftkurt/kurdish-twitter-data) (Sorani and Kurmanji)
 - [Datasets for text to Kurdish Sign Language](https://github.com/KurdishBLARK/KurdishSignLanguage) (Sorani)
