@@ -1,6 +1,6 @@
 # Awesome Kurdish
 
-(last updated on 01/07/2022)
+(last updated on 04/01/2023)
 
 **A curated list of awesome resources, tools and scientific papers for Kurdish language technology**
 
@@ -106,6 +106,9 @@ Check out [a comprehensive list of Kurdish dictionaries](https://sinaahmadi.gith
 #### Named-entity recognition
 - [Autoregressive Entity Retrieval](https://github.com/facebookresearch/GENRE) (Kurmanji)
 
+#### Optical character recognition
+- [Kurdish Handwritten Words](https://data.krd/) (Sorani)
+
 #### Libraries
 - [Kurdish Language Processing Toolkit](https://github.com/sinaahmadi/klpt): a natural language processing toolkit in Python
 - [Kurdînûs](https://github.com/aso-mehmudi/kurdinus): pure JavaScript tools for transliteration, text conversion and normalization
@@ -199,8 +202,11 @@ These references are provided based on the data collected in the paper entitled 
 |        `qader2019kurdish`       	| 2019 	| Speech recognition                    	| Sorani                   	|
 |        `ahmadi-2020-klpt`       	| 2020 	| Toolkits				                   	| Sorani, Kurmanji         	|
 |        `de2021multilingual`       | 2021  | Named-entity recognition                  | Kurmanji                  |
-
-
+|        `abdullah2022`             | 2022  | Sentiment analysis                        | Sorani                    |
+|        `awlla2022`                | 2022  | Sentiment analysis                        | Sorani                    |
+|        `amin2022kurdish`          | 2022  | Sentiment analysis                        | Sorani                    |
+|        `zuhair2021`               | 2021  | Other                                     | Sorani                    |
+|        `kamala2022kurdish`        | 2022  | Other                                     | Sorani                    |
 
 ### Cite this repository
 
