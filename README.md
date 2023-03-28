@@ -1,12 +1,16 @@
 # Awesome Kurdish
 
-(last updated on 04/01/2023)
+(last updated on 26/03/2023)
 
 **A curated list of awesome resources, tools and scientific papers for Kurdish language technology**
 
 Although I do my best to keep this page as comprehensive as possible by including all projects, the list may not include all the fantastic small and big projects regarding Kurdish language processing. Please be kind and notify me by reaching out by email or through our community on [Gitter](https://gitter.im/KurdishNLP/community).
 
 Are you interested in contributing to Kurdish language processing? Check out [this post](https://sinaahmadi.github.io/klpt/about/contributing/) to see how you can do so.
+
+## News 🎉
+- Two projects are released for **language identification** of Zaza-Gorani and Kurdish langauges. 
+- A benchmark is released for sentiment analysis of Central Kurdish.
 
 ## Development 
 
@@ -20,6 +24,7 @@ Are you interested in contributing to Kurdish language processing? Check out [th
 - [AsoSoft corpus](https://github.com/AsoSoft/AsoSoft-Text-Corpus) (Sorani)
 - [Kurdish Textbooks Corpus](https://github.com/KurdishBLARK/KTC) (Sorani)
 - [Zaza-Gorani corpus](https://github.com/sinaahmadi/ZazaGoraniCorpus) (Zazaki and Gorani)
+- [Southern Kurdish and Laki corpora](https://github.com/sinaahmadi/ZazaGoraniCorpus) (Southern Kurdish and Laki)
 - [Kurdish resources on Clarin](https://vlo.clarin.eu/search;jsessionid=61B467FE3D0D9F9787A01F0BC8E0EEAA?1&fq=languageCode:code:kmr&fq=languageCode:code:ckb&fq=languageCode:code:sdh&fq=languageCode:code:kur&fqType=languageCode:or)
 - [University of Bamberg's corpora](https://multicast.aspra.uni-bamberg.de/resources/#kurdish) [Kurmanji & Laki]
 
@@ -38,6 +43,7 @@ Are you interested in contributing to Kurdish language processing? Check out [th
 #### Dictionaries, terminologies and ontologies
 Check out [a comprehensive list of Kurdish dictionaries](https://sinaahmadi.github.io/posts/list-of-kurdish-dictionaries.html) and beware of copyright issues in the following projects:
 
+- [Kurdî Wikibase](https://kurdi.wikibase.cloud) (Sorani, Kurmanji, Gorani and Southern Kurdish)
 - [Kurdish lexicographical resources in Ontolex-Lemon](https://github.com/sinaahmadi/KurdishLexicography) (Sorani, Kurmanji, Gorani and Southern Kurdish)
 - Check [Dolan Hêriş](https://github.com/dolanskurd?tab=repositories)'s repositories for a list of Kurdish dictionaries and tools to extract words
 - [KurdNet-the Kurdish wordNet](https://sinaahmadi.github.io/resources/kurdnet.html) (Sorani)
@@ -70,7 +76,8 @@ Check out [a comprehensive list of Kurdish dictionaries](https://sinaahmadi.gith
     - [Evaluation datasets for Kurdish Grapheme-to-Phoneme Conversion systems](https://github.com/AsoSoft/Kurdish-G2P-dataset) (Sorani)
 - Spelling error correction
     - [Central-Kurdish-Spelling-dataset](https://github.com/AsoSoft/Central-Kurdish-Spelling-dataset)
-    
+- Sentiment Analyis
+    - [Sentiment Analysis](https://github.com/Hrazhan/sentiment) (Sorani)    
 
 #### Other resources
 
@@ -115,6 +122,8 @@ Check out [a comprehensive list of Kurdish dictionaries](https://sinaahmadi.gith
 - [Kurdish Language Library](https://github.com/dolanskurd/kurdish): converting characters and digits in Persian, English and Arabic to Kurdish and vice versa
 - [AsoSoft's Library for Kurdish](https://github.com/AsoSoft/AsoSoft-Library): normalizer, numeral converter, grapheme-to-phoneme convertor in C# 
 
+#### Language identification
+- [Perso-Arabic](https://github.com/sinaahmadi/PersoArabicLID) and [KurdishLID](https://github.com/sinaahmadi/KurdishLID) projects covering many languages including (Kurmanji, Sorani, Southern Kurdish, Gorani and Zazaki)
 
 ### Other
 In addition to these, you can find further information in other repositories and pages as follows:
@@ -205,8 +214,11 @@ These references are provided based on the data collected in the paper entitled 
 |        `abdullah2022`             | 2022  | Sentiment analysis                        | Sorani                    |
 |        `awlla2022`                | 2022  | Sentiment analysis                        | Sorani                    |
 |        `amin2022kurdish`          | 2022  | Sentiment analysis                        | Sorani                    |
+|        `hameed2023sentiment`      | 2023  | Sentiment analysis                        | Sorani                    |
 |        `zuhair2021`               | 2021  | Other                                     | Sorani                    |
 |        `kamala2022kurdish`        | 2022  | Other                                     | Sorani                    |
+|        `ahmadi2023fieldmatters`   | 2023  | Language identification | Sorani, Kurmanji, Southern Kurdish, Zazaki, Gorani |
+|        `ahmadi2023pali`           | 2023  | Language identification                   | Sorani, Kurmanji, Southern Kurdish, Gorani |
 
 ### Cite this repository
 
