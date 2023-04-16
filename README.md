@@ -1,6 +1,6 @@
 # Awesome Kurdish
 
-(last updated on 26/03/2023)
+(last updated on 15/04/2023)
 
 **A curated list of awesome resources, tools and scientific papers for Kurdish language technology**
 
@@ -9,6 +9,7 @@ Although I do my best to keep this page as comprehensive as possible by includin
 Are you interested in contributing to Kurdish language processing? Check out [this post](https://sinaahmadi.github.io/klpt/about/contributing/) to see how you can do so.
 
 ## News 🎉
+- A few datasets are added for emotion analysis, summarization and news headline classification 
 - Two projects are released for **language identification** of Zaza-Gorani and Kurdish langauges. 
 - A benchmark is released for sentiment analysis of Central Kurdish.
 
@@ -64,6 +65,11 @@ Check out [a comprehensive list of Kurdish dictionaries](https://sinaahmadi.gith
 - [Sorani](https://github.com/unimorph/ckb) and [Kurmanji](https://github.com/unimorph/kmr) morphological datasets in UniMorph
 - [FakeKurdNews](https://github.com/rania-azad/FakeKurdNews---Fake-Kurdish-News-Dataset), an annotated dataset for Sorani Kurdish fake news detection
 - [profanity language](https://github.com/MohammedSardar/Bive) (Sorani)
+- [Cyberbullying dataset](https://data.mendeley.com/datasets/ck49jyxcbt) (Sorani)
+- [Summarization dataset](https://data.mendeley.com/datasets/gczpg2cnxy) (Sorani)
+- [Sentiment analysis](https://data.mendeley.com/datasets/3yrkswy6ph) (Sorani)
+- [Emotion analysis](https://data.mendeley.com/datasets/dntxt73dm6) (Sorani)
+- [News headline classification](https://data.mendeley.com/datasets/kb7vvkg2th) (Sorani)
 
 ### Benchmarks
 - Morphological analysis:
