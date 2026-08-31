@@ -39,6 +39,7 @@ Are you interested in contributing to Kurdish language processing? Check out [th
 - [Southern Kurdish and Laki corpora](https://github.com/sinaahmadi/ZazaGoraniCorpus) (Southern Kurdish and Laki)
 - [Kurdish resources on Clarin](https://vlo.clarin.eu/search;jsessionid=61B467FE3D0D9F9787A01F0BC8E0EEAA?1&fq=languageCode:code:kmr&fq=languageCode:code:ckb&fq=languageCode:code:sdh&fq=languageCode:code:kur&fqType=languageCode:or)
 - [University of Bamberg's corpora](https://multicast.aspra.uni-bamberg.de/resources/#kurdish) [Kurmanji & Laki]
+- [KurdishCorpus-clean](https://huggingface.co/datasets/kurdish-tech/KurdishCorpus-clean) (Kurmanji, Sorani and Zazaki), a deduplicated, quality-filtered corpus of 2.7M documents (2.97B tokens) built from FineWeb-2, Wiktionary, MADLAD-400, HPLT 2.0, CC-100, Wikipedia and academic sources
 
 #### Parallel corpora
 
@@ -66,6 +67,7 @@ Check out [a comprehensive list of Kurdish dictionaries](https://sinaahmadi.gith
 - [Freedict](https://freedict.org/downloads/) word lists (Sorani and Kurmanji)
 - [Translation Initiative for COVID-19](https://tico-19.github.io/terminologies.html) including Sorani and Kurmanji
 - [MyMemory dictionaries](https://mymemory.translated.net/) with an open-access API (Sorani)
+- [Ferheng](https://kurdish-tech.github.io/) (Kurmanji, Sorani and Zazaki), an offline-first, client-side dictionary web app and desktop app with 456,000+ entries
 
 #### Datasets
 
@@ -135,6 +137,7 @@ Check out [a comprehensive list of Kurdish dictionaries](https://sinaahmadi.gith
 - [Gende Stemmer](https://github.com/mhmd-azeez/GendeStemmer) (Sorani)
 - [Conversion of numbers into words](https://www.kurd.cc/numbers-to-kurdish-words) (Sorani and Kurmanji)
 - [Conversion of words into IPA](https://www.kurd.cc/kurdish-text-to-ipa-phonetics) (Kurmanji)
+- [Kurdish Spell Checker](https://github.com/Kurdish-Tech/kurdish-spell-checker-extension) (Kurmanji), a Manifest V3 Chrome extension for real-time spell checking with a 380,000+ word dictionary
 
 #### Machine translation
 - [Apertium](https://github.com/apertium) ([Sorani](https://github.com/apertium/apertium-ckb-eng) and [Kurmanji](https://github.com/apertium/apertium-kmr-eng))
@@ -163,6 +166,7 @@ In addition to these, you can find further information in other repositories and
 
 - [Developers Tree](https://devs.krd/)
 - [Kurdish resources](https://github.com/DevelopersTree/KurdishResources)
+- [Kurdish-Tech](https://github.com/Kurdish-Tech), an org building open-source Kurdish language tools, including a [Kurmancî Latin keyboard layout](https://github.com/Kurdish-Tech/kurdish-kurmanci-keyboard-layout) for Windows, macOS and Linux
 
 
 ## Research
