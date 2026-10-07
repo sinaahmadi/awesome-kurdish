@@ -101,7 +101,7 @@ Check out [a comprehensive list of Kurdish dictionaries](https://sinaahmadi.gith
 - Tokenization: 
     - [KurdishTokenization](https://github.com/sinaahmadi/KurdishTokenization) (Sorani, Kurmanji)
     - [A sentence-segmented dataset](https://github.com/KurdishBLARK/KTC-Segmented) (Sorani)
-    - [Kurdish NLP Benchmark](https://github.com/Kurdish-Tech/kurdish-nlp-benchmark) (Kurmanji, Sorani, Zazaki), an open, reproducible benchmark comparing tokenizer fertility and grammar-eval coverage across Kurdish NLP tools
+    - [Kurdish NLP Metrics](https://github.com/Kurdish-Tech/kurdish-nlp-metrics) (Kurmanji, Sorani, Zazaki), open, reproducible intrinsic metrics (tokenizer fertility, grammar-eval coverage) across Kurdish NLP tools
 - Transliteration
     - [Wergor transliteration datasets](https://github.com/sinaahmadi/wergor)
     - [Evaluation datasets for Kurdish Grapheme-to-Phoneme Conversion systems](https://github.com/AsoSoft/Kurdish-G2P-dataset) (Sorani)
